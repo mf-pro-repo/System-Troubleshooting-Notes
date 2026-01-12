@@ -33,3 +33,7 @@
 - Limited connectivity scenarios may require creative, temporary workarounds to enable proper troubleshooting.
 - Having a secondary device or method to access the network is valuable when primary adapters fail.
 - Straightforward driver updates can resolve seemingly complex connectivity issues when proper access is ensured.
+
+## Final Thoughts
+- I actually enjoyed this one, the user was technical enough for me to easily walk them through verifying their driver, and starting the tethering on their phone.
+- The tethering trick was a bit of a eureka moment for a quick and easy fix, and I've actually used this technique many times since then.
