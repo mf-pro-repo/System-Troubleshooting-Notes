@@ -15,7 +15,7 @@
 ## Troubleshooting Steps
 ### 1. Verification
 - Confirmed the Wi-Fi adapter was recognized by the system.
-- Checked for obvious driver corruption or conflicts — none were immediately resolvable through Device Manager.
+- Checked for obvious driver corruption or conflicts, none were immediately resolvable through Device Manager.
 
 ### 2. Alternative Access
 - Advised the user to use a secondary device (Android phone) for temporary network access via USB tethering.
