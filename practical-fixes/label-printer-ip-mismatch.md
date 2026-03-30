@@ -19,12 +19,12 @@
 4. Confirmed printer functionality on the network.
 
 ## Lessons Learned
-- Device documentation is a critical resource — sometimes overlooked in favor of escalation or replacement.
+- Device documentation is a critical resource, sometimes overlooked in favor of escalation or replacement.
 - Manual configuration can resolve long-standing issues without hardware replacement.
 - Careful review of existing resources can save significant time and costs.
 
 ## Final Thoughts
 - This was kind of funny because the recycled ticket got assigned to me and everyone in the office was telling me to just go ahead and order a new one.
 - Multiple talented IT technicians had attempted to fix it over several months.
-- Instead of just purchasing a new one i read the documentation to release the lock. Thats it.
+- Instead of just purchasing a new one I read the documentation to release the lock. Thats it.
 - Device documentation is a very valuble asset and it's always good to have a repo of them for whatever devices are on your network. Referencing them can save time, money, and prevent frustration.
